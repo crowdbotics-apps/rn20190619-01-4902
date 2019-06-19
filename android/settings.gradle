@@ -1,0 +1,3 @@
+rootProject.name = 'rn20190619_01_4902'
+
+include ':app'
